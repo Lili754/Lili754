@@ -1,16 +1,16 @@
-## Hi there 👋
+## oioi bem vindo ao meu perfil👋
 
-<!--
-**Lili754/Lili754** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é elis regina 
 
-Here are some ideas to get you started:
+- sou uma estudante do ensino médio [Alura](https://www.alura.com.br)
+- estou aprendendo a criar projetos e desenvolvê-los
+- utilizo este espaço para organizar e publicar meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## meu contato
+
+elisreginamullisacamamani860@gmail.com
+
+@Lili754
+
+![](https://tenor.com/i711TDaTPtUAAAAC/naruto.gif)
+
